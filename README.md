@@ -2,10 +2,7 @@
 
 ##### Software status
 
-| Resource:   | Travis CI                                                                                                                                            |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Platform:   | Linux                                                                                                                                                |
-| R CMD check | <a href="https://travis-ci.org/Jfortin1/neuroCombat_Rpackage"><img src="https://travis-ci.org/Jfortin1/neuroCombat_Rpackage.svg?branch=master" alt="Build status"></a> |
+[![R-CMD-check](https://github.com/PennSIVE/neuroCombat_Rpackage/actions/workflows/r-cmd-check.yml/badge.svg)](https://github.com/PennSIVE/neuroCombat_Rpackage/actions/workflows/r-cmd-check.yml)
 
 ## Table of content
 - [1. Installation](#id-section1)
